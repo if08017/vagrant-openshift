@@ -29,8 +29,8 @@ cd vagrant-openshift
 Installation
 ---
 ```
-git clone https://www.terraform.io
 vagrant up
+vagrant provision
 ```
 <img src="http://www.kawanlabs.com/images/public/vagrant-openshift-result.png" width="50%">
 
